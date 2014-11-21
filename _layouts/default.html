@@ -30,13 +30,25 @@
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
-          
-          <nav>
+
+          {% capture location %}{{ page.url | remove_first:'/' | split:'/' | first }}{% endcapture %}
+          <nav><ul>
+              <a {% if location == 'projects' %}class="active" {% endif %}href="/">Projects</a>
+              <a {% if location == 'projects' %}class="active" {% endif %}href="/">Talks</a>
+              <a {% if location == 'publications' %}class="active" {% endif %}href="/publications/">Publications</a>
+              <a {% if location == 'star_protected' %}class="active" {% endif %}href="/star_protected/">STAR-protected</a>
+              <a {% if location == 'about' %}class="active" {% endif %}href="/about/">About</a>
+              <!-- <li><a {% if location == 'blog' %}class="active" {% endif %}href="/blog/">Blog</a></li> -->
+              <!-- <li><a {% if location == 'contact' %}class="active" {% endif %}href="/contact/">Contact</a></li> -->
+          </ul></nav>
+
+          <!-- <nav>
             <a href="{{ site.baseurl }}/">Publications</a>
             <a href="{{ site.baseurl }}/">Talks</a>
             <a href="{{ site.baseurl }}/">STAR-related</a>
             <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
+          </nav> -->
+
         </header>
       </div>
     </div>
