@@ -18,7 +18,7 @@ avatar: https://avatars1.githubusercontent.com/u/1043083?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
+  email: mmustafa@lbl.gov
   facebook: 
   flickr: 
   github: MustafaMustafa
@@ -66,6 +66,8 @@ gems:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
+# Force inclusion of some files
+include: ["/star_protected/.htaccess"]
 # Exclude these files from your production _site
 exclude:
     - Gemfile
