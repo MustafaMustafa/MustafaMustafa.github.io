@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "protected"
-AuthUserFile /star_protected/.htpasswd
-Require valid-user
