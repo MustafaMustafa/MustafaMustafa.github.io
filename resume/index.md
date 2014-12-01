@@ -11,6 +11,8 @@ Curriculum-Vitae: [HTML (recommended)](cv.html), [PDF](mustafa_mustafa_cv.pdf), 
 
 ####Quick links:
 
+* [Skills & Areas of Expertise](cv.html#skills-areas-of-expertise)  
+* [Projects & Contributions](cv.html#projects-contributions)  
 * [Talks](cv.html#talks)  
 * [Publications](cv.html#publications)  
 
