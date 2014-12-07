@@ -10,8 +10,8 @@ permalink: /resume/
 
 ####Quick links:
 * CV: [HTML (recommended)](cv.html), [PDF](mustafa_mustafa_cv.pdf), [github-repo](https://github.com/MustafaMustafa/curriculum_vitae).  
-* [Skills and Areas of Expertise](cv.html#skills-areas-of-expertise).  
-* [Projects and Contributions](cv.html#projects-contributions).  
+* [Skills and Areas of Expertise](cv.html#skills-and-areas-of-expertise).  
+* [Projects and Contributions](cv.html#projects-and-contributions).  
 * [Talks](cv.html#talks).  
 * [Publications](cv.html#publications).  
 * [Teaching](cv.html#teaching).  
