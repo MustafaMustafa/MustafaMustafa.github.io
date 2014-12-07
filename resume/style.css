@@ -1,3 +1,8 @@
+/* Modiefied by Mustafa Mustafa (mmustafa.com)
+ * CC BY-SA 3.0 License.
+ *
+ * Original version by chmd as described below.
+ */
 /*
  * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
  *
@@ -9,11 +14,12 @@
 
 /* Whole document */
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "PT Serif", "PT Serif", "PT Serif", "PT Serif";
     width: 800px;
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
+    text-align: justify;
 }
 
 /* Title of the resume */
