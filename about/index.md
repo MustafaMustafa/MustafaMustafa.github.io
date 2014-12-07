@@ -5,5 +5,6 @@ permalink: /about/
 ---
 
 
+
 [mmustafa@lbl.gov](mailto:mmustafa@lbl.gov)  
-You might be wondering why I don't obfuscate my email. [Yes, I meant it so](http://theflyingdeveloper.com/why-i-dont-obfuscate-my-email/).
+[Yes, let us obfuscating emails](http://theflyingdeveloper.com/why-i-dont-obfuscate-my-email/).
