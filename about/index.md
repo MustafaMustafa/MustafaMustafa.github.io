@@ -7,4 +7,4 @@ permalink: /about/
 
 
 [mmustafa@lbl.gov](mailto:mmustafa@lbl.gov)  
-[Yes, let us obfuscating emails](http://theflyingdeveloper.com/why-i-dont-obfuscate-my-email/).
+[Yes, let us stop emails obfuscation](http://theflyingdeveloper.com/why-i-dont-obfuscate-my-email/).
