@@ -70,7 +70,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Force inclusion of some files
-include: ["star_protected/.htaccess","star_protected/htaccess","star_protected/htpasswd","star_protected/.htpasswd"]
+include: []
 # Exclude these files from your production _site
 exclude:
     - Gemfile
