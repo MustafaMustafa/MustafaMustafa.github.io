@@ -23,14 +23,14 @@ footer-links:
   flickr: 
   github: MustafaMustafa
   instagram: 
-  linkedin: 
+  linkedin: mumustafa
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
   stackoverflow: users/2030653/mustafa-mustafa # your stackoverflow profile, e.g. "users/50476/bart-kiers"  
-  googleplus: MustafaKMustafa
+  googleplus:
   goodreads: 22134801-mustafa-mustafa
-  bitbucket: mmustafa
+  bitbucket:
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: Mustafa
@@ -70,7 +70,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Force inclusion of some files
-include: ["star_protected/.htaccess","star_protected/htaccess","star_protected/htpasswd","star_protected/.htpasswd"]
+include: []
 # Exclude these files from your production _site
 exclude:
     - Gemfile
